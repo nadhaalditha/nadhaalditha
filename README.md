@@ -1,10 +1,8 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Holaaa... Iam Hasnah Nur Ardita - Front End Dev | Opensource Addict 👋
 
 🔭 I’m currently working on NadhaMedia<br/>
 🌱 I’m currently learning Vue js <br/>
-👯 I’m looking to collaborate on ...<br/>
-🤔 I’m looking for help with ...<br/>
+👯 I’m looking to collaborate on Haxorsprogramming<br/>
 💬 Ask me about ...<br/>
 📫 How to reach me: ...<br/>
 😄 Pronouns: ...<br/>
